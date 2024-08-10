@@ -1,4 +1,5 @@
 -- Lazy
+-- This is an interesting security detail ... ;
 return {
   {
     "vague2k/vague.nvim",
