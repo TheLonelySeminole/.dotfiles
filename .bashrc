@@ -7,7 +7,7 @@
 
 #alias ls='ls --color=auto'
 alias ls='exa'
-alias cat='bat'
+alias cat='bat --theme=ansi'
 alias grep='rg'
 alias top='btop'
 alias vim='nvim'
