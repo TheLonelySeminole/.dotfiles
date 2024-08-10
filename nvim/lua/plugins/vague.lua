@@ -1,5 +1,6 @@
 -- Lazy
--- This is an interesting security detail ... ;
+-- This is an interesting security detail
+-- Causing some interesting things to happen
 return {
   {
     "vague2k/vague.nvim",
