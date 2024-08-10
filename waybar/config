@@ -1,0 +1,26 @@
+{
+  "layer": "bottom",
+  "position": "top",
+  "height": 24,
+  "spacing": 15,
+  "margin": 4,
+  "modules-left": ["custom/logo","hyprland/window"],
+  "modules-center": ["hyprland/workspaces"], 
+  "modules-right": ["idle_inhibitor","network","cpu","memory","pulseaudio","clock","tray"],
+
+  "custom/logo": {
+    "format": "",
+    "tooltip": false
+  },
+
+
+  "network": {
+      "format-wifi": " ",
+      "format-ethernet":" ",
+      "format-disconnected": "",
+      "tooltip-format": "{ipaddr}",
+      "tooltip-format-wifi": "{essid} ({signalStrength}%)  | {ipaddr}",
+      "tooltip-format-ethernet": "{ifname} 🖧 | {ipaddr}",
+      "on-click": "networkmanager_dmenu"
+    },
+}
