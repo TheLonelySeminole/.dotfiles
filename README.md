@@ -1,9 +1,15 @@
 # dotfiles
 #### A simple repository for my dotfiles. Nothing fancy
 - I'm testing out a new Arch Linux setup
-  - Hyprland is the window manager, but occasionally it breaks
-    - That's on the TODO: list to figure out 
-  - I'm also working on my Markdown
+  - Hyprland 
+    - Kitty with the Lavandula theme and Fira Code font
+    - Waybar is a work in progress
+    - clipse for my clipboard
+    - hyprpaper for background
+    - mako for notification
+    - /usr/lib/polkit-kde-authentication-agent-1 for auth
+  - It ain't much, but it's honest work... 
+   
   
 
-  ## 8/11/2024
+  #### 8/11/2024
