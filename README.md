@@ -1,4 +1,4 @@
 # dotfiles
-## A simple repository for my dotfiles. Nothing fancy
+#### A simple repository for my dotfiles. Nothing fancy
 
 
