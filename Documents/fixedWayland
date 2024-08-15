@@ -1,0 +1,4 @@
+options nvidia NVreg_PreserveVideoMemoryAllocations=1
+added to modprobe.d folder
+added modconf hook to mkinitcpio.conf
+regenerated using mkinitcpio -P
