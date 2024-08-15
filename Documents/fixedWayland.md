@@ -19,8 +19,8 @@ from :
 - https://wiki.archlinux.org/title/Wayland
 - https://github.com/korvahannu/arch-nvidia-drivers-installation-guide
 
-##> [!NOTE]
->   "nvidia-drm.modeset=1" cannot be added to /etc/mkinitcpio.conf and needs to be added to /etc/default/grub 
+NOTE:
+   "nvidia-drm.modeset=1" cannot be added to /etc/mkinitcpio.conf and needs to be added to /etc/default/grub 
     GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet nvidia-drm.modeset=1"
 
 
