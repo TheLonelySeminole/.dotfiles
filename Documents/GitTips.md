@@ -1,7 +1,9 @@
 # Git/Github Tips
 
-Using hard links 'ln' currently to mirror configs I want in the repository
-Hard link does not support recursive linking but 'cp -lR' does
+Using hard links to mirror the .config files I want to keep in the repository ~/.dotfiles
+Although hard links don't support recursive linking, 'cp -lR' does
+So far so good, although I need to test sync with base .config files
+
 
 ### Create hard links to directories 
 cp -lR src-dir dest-dir
