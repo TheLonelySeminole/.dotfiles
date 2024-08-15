@@ -1,6 +1,8 @@
 #
 # ~/.bashrc
 
+#GBM_BACKEND=nvidia-drm
+#__GLX_VENDOR_LIBRARY_NAME=nvidia
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
