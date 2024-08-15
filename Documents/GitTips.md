@@ -4,7 +4,7 @@ Using hard links to mirror the .config files I want to keep in the repository ~/
 
 Although hard links don't support recursive linking, 'cp -lR' does.
 
-So far so good, although I need to test sync with base .config files.
+So far so good, although I need to test github.com editing to make sure the hard link holds with the base .config files.
 
 
 ### Create hard links to directories 
