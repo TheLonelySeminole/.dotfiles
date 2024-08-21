@@ -4,6 +4,7 @@ return {
     opts = {
       ensure_installed = {
         "bash",
+        "hyprlang",
         "html",
         "javascript",
         "json",
@@ -19,5 +20,16 @@ return {
         "yaml",
       },
     },
+    config = function()
+      vim.filetype.add({
+        pattern = {
+          [".*/hypr/.*%.conf"] = "hyprlang",
+          [".*/waybar/config"] = "json",
+          [".*/mako/config"] = "dosini",
+          [".*/wofi/config"] = "dosini",
+          [".*/kitty/*.conf"] = "bash",
+        },
+      })
+    end,
   },
 }
