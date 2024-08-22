@@ -1,0 +1,9 @@
+configuration {
+  modes: [ combi ];
+  combi-modes: [ window, drun, run ];
+  show-icons: true;
+  icon-theme: "Papirus";
+  font: "FiraCode Nerd Font 12";
+}
+
+@theme "/usr/share/rofi/themes/glue_pro_blue.rasi"

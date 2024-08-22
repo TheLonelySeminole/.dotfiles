@@ -28,6 +28,7 @@ return {
           [".*/mako/config"] = "dosini",
           [".*/wofi/config"] = "dosini",
           [".*/kitty/*.conf"] = "bash",
+          [".*/rofi/*.rasi"] = "rasi",
         },
       })
     end,
