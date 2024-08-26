@@ -8,6 +8,7 @@
     - hyprpaper for background
     - mako for notification
     - /usr/lib/polkit-kde-authentication-agent-1 for auth
+  - My Neovim dotfiles. Just LazyVim with a few edits.
   - It ain't much, but it's honest work... 
    
   
