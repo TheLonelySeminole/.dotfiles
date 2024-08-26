@@ -1,3 +1,5 @@
+
+
 configuration {
   modes: [ combi ];
   combi-modes: [ window, drun, run ];
@@ -6,4 +8,4 @@ configuration {
   font: "FiraCode Nerd Font 12";
 }
 
-@theme "/usr/share/rofi/themes/glue_pro_blue.rasi"
+@theme "/usr/share/rofi/themes/arthur.rasi"

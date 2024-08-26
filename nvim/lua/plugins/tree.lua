@@ -13,6 +13,7 @@ return {
         "markdown_inline",
         "python",
         "query",
+        "rasi",
         "regex",
         "tsx",
         "typescript",
@@ -29,6 +30,7 @@ return {
           [".*/wofi/config"] = "dosini",
           [".*/kitty/*.conf"] = "bash",
           [".*/rofi/*.rasi"] = "rasi",
+          ["/usr/share/rofi/themes/*.rasi"] = "rasi",
         },
       })
     end,
