@@ -30,6 +30,7 @@ return {
           [".*/wofi/config"] = "dosini",
           [".*/kitty/*.conf"] = "bash",
           [".*/rofi/*.rasi"] = "rasi",
+          [".*/wlogout/layout"] = "json",
           ["/usr/share/rofi/themes/*.rasi"] = "rasi",
         },
       })
