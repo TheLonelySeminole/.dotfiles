@@ -3,7 +3,7 @@
 - I'm testing out a new Arch Linux setup
   - Hyprland 
     - Kitty with the Lavandula theme and Fira Code font
-    - Waybar is a work in progress
+    - Waybar is a work in progress... I'm liking my current config
     - clipse for my clipboard
     - hyprpaper for background
     - mako for notification
