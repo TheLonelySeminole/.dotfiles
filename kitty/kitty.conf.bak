@@ -12,7 +12,7 @@
  # italic_font      JetBrains Mono Italic 
  # bold_italic_font JetBrains Mono Bold Italic 
 
-font_family Fira Code 
+font_family Fira Code
 bold_font Fira Code Bold
 italic_font Fira Code Light
 bold_italic_font Fira Code SemiBold
@@ -32,12 +32,8 @@ bold_italic_font Fira Code SemiBold
  font_size 10.0
 
 #: Font size (in pts).
-
 # Themes 
-
-
-
-
+include ./kitty-themes/themes/Lavandula.conf
 # force_ltr no
 
 #: kitty does not support BIDI (bidirectional text), however, for RTL
@@ -1019,7 +1015,7 @@ disable_ligatures never
 #: The second number is the margin between the tab bar and the
 #: contents of the current tab.
 
-tab_bar_style powerline 
+# tab_bar_style fade
 
 #: The tab bar style, can be one of:
 
@@ -2543,9 +2539,3 @@ background_opacity 0.9
 #: }}}
 
 #: }}}
-
-
-# BEGIN_KITTY_THEME
-# Catppuccin-Mocha
-include current-theme.conf
-# END_KITTY_THEME
