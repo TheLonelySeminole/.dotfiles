@@ -1,7 +1,13 @@
 # dotfiles
+
+##
+
+###
+
 #### A simple repository for my dotfiles. Nothing fancy
+
 - I'm testing out a new Arch Linux setup
-  - Hyprland 
+  - Hyprland
     - Kitty with the Lavandula theme and Fira Code font
     - Waybar is a work in progress... I'm liking my current config
     - clipse for my clipboard
@@ -9,8 +15,6 @@
     - mako for notification
     - /usr/lib/polkit-kde-authentication-agent-1 for auth
   - My Neovim dotfiles. Just LazyVim with a few edits.
-  - It ain't much, but it's honest work... 
-   
-  
+  - It ain't much, but it's honest work...
 
   #### 8/11/2024

@@ -25,7 +25,7 @@ return {
       vim.filetype.add({
         pattern = {
           [".*/hypr/.*%.conf"] = "hyprlang",
-          [".*/waybar/config"] = "json",
+          [".*/waybar/config"] = "jsonc",
           [".*/mako/config"] = "dosini",
           [".*/wofi/config"] = "dosini",
           [".*/kitty/*.conf"] = "bash",

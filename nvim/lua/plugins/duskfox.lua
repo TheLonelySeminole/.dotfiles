@@ -9,11 +9,11 @@ return {
       })
     end,
   },
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "nightfox",
-    },
-  },
+  -- {
+  --   "LazyVim/LazyVim",
+  --   opts = {
+  --     colorscheme = "nightfox",
+  --   },
+  -- },
 }
 -- lazy
