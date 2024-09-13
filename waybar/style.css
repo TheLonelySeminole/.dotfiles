@@ -1,14 +1,14 @@
 * {
   border: none;
   border-radius: 0;
-  font-family: "JetBrainsMono Nerd Font";
-  font-size: 13px;
+  font-family: "Fira Code";
+  font-size: 15px;
   min-height: 0;
 }
 
 window#waybar {
   background: transparent;
-  color: white;
+  color: #7AA2F7;
 }
 
 #window {
@@ -25,7 +25,7 @@ window#waybar {
 #workspaces button {
   padding: 0 5px;
   background: transparent;
-  color: white;
+  color: #7AA2F7;
   border-top: 2px solid transparent;
 }
 
