@@ -17,4 +17,4 @@
   - My Neovim dotfiles. Just LazyVim with a few edits.
   - It ain't much, but it's honest work...
 
-  #### 8/11/2024
+  #### 9/13/2024
