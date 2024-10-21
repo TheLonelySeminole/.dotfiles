@@ -8,7 +8,8 @@
 
 window#waybar {
   background: transparent;
-  color: #7AA2F7;
+  /*color: #7AA2F7;*/
+  color: #EA7695;
 }
 
 #window {
@@ -25,7 +26,7 @@ window#waybar {
 #workspaces button {
   padding: 0 5px;
   background: transparent;
-  color: #7AA2F7;
+  color: #EA7695;
   border-top: 2px solid transparent;
 }
 
