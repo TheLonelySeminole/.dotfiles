@@ -12,5 +12,7 @@ alias cat='bat --theme=ansi'
 alias grep='rg'
 alias top='btop'
 alias vim='nvim'
+alias gogdownloader='lgogdownloader'
 PS1='[\u@\h \W]\$ '
+
 eval "$(starship init bash)"
