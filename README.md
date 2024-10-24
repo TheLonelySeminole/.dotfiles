@@ -6,7 +6,7 @@
 
 #### A simple repository for my dotfiles. Nothing fancy
 
-- I'ts been another month now on Arch..
+- It's been another month now on Arch..
 - Still loving:
   - Hyprland
     - Kitty
