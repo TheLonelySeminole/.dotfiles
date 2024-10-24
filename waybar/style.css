@@ -48,7 +48,7 @@ window#waybar {
   background: transparent;
   /*color: #7AA2F7;*/
   /*color: #EA7695;*/
-  color: #FFAB7A;
+  color: #C099FF;
 }
 
 #window {
@@ -76,7 +76,7 @@ window#waybar {
 #workspaces button {
   padding: 0 5px;
   background: transparent;
-  color: #FFAB7A;
+  color: #C099FF;
   border-top: 2px solid transparent;
 }
 
