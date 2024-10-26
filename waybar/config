@@ -79,17 +79,18 @@
     "on-click": "pavucontrol"
   },
   "custom/archicon": {
-    "format": " ",
+    "format": "  ",
     "tooltip": false
   },
   "custom/pacman": {
     "format": "{}{icon}",
     "return-type": "json",
     "format-icons": {
-      "pending-updates": " ",
+      "pending-updates": "  ",
       "updated": ""
     },
     "exec-if": "which waybar-updates",
-    "exec": "waybar-updates"
+    "exec": "waybar-updates",
+    "on-click": "kitty yay"
   }
 }
