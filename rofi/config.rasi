@@ -8,4 +8,4 @@ configuration {
   font: "FiraCode Nerd Font 12";
 }
 
-@theme "/usr/share/rofi/themes/arthur.rasi"
+@theme "~/.local/share/rofi/themes/rounded-nord-dark.rasi"

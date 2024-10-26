@@ -11,11 +11,10 @@
  # bold_font        JetBrains Mono Bold 
  # italic_font      JetBrains Mono Italic 
  # bold_italic_font JetBrains Mono Bold Italic 
-
-font_family Fira Code 
-bold_font Fira Code Bold
-italic_font Fira Code Light
-bold_italic_font Fira Code SemiBold
+# font_family Fira Code 
+# bold_font Fira Code Bold
+# italic_font Fira Code Light
+# bold_italic_font Fira Code SemiBold
 #: You can specify different fonts for the bold/italic/bold-italic
 #: variants. To get a full list of supported fonts use the `kitty
 #: +list-fonts` command. By default they are derived automatically, by
@@ -1174,7 +1173,7 @@ tab_bar_style powerline
 
 #: The foreground and background colors.
 
-background_opacity 0.9
+background_opacity 0.8
 
 #: The opacity of the background. A number between zero and one, where
 #: one is opaque and zero is fully transparent. This will only work if
@@ -2549,3 +2548,11 @@ background_opacity 0.9
 # Tokyo Night Moon
 include current-theme.conf
 # END_KITTY_THEME
+
+
+# BEGIN_KITTY_FONTS
+font_family      family='Fira Code' postscript_name=FiraCode-Regular
+bold_font        family='Fira Code' postscript_name=FiraCode-Bold
+italic_font      family='Fira Code' postscript_name=FiraCode-Light
+bold_italic_font family='Fira Code' postscript_name=FiraCode-SemiBold
+# END_KITTY_FONTS
