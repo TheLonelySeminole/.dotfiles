@@ -2545,7 +2545,7 @@ background_opacity 0.8
 
 
 # BEGIN_KITTY_THEME
-# Tokyo Night Moon
+# Catppuccin-Mocha
 include current-theme.conf
 # END_KITTY_THEME
 
