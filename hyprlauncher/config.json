@@ -1,0 +1,10 @@
+{
+  "font_size": 14,
+  "height": 600,
+  "theme": {
+    "background_color": "#0f0f0f",
+    "selection_color": "#1f1f1f",
+    "text_color": "#eceff4"
+  },
+  "width": 600
+}
