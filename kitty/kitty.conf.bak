@@ -2545,14 +2545,14 @@ background_opacity 0.8
 
 
 # BEGIN_KITTY_THEME
-# Catppuccin-Mocha
+# pink lavender
 include current-theme.conf
 # END_KITTY_THEME
 
 
 # BEGIN_KITTY_FONTS
-font_family      family='Fira Code' postscript_name=FiraCode-Regular
-bold_font        family='Fira Code' postscript_name=FiraCode-Bold
-italic_font      family='Fira Code' postscript_name=FiraCode-Light
-bold_italic_font family='Fira Code' postscript_name=FiraCode-SemiBold
+font_family      family="FiraCode Nerd Font"
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
 # END_KITTY_FONTS

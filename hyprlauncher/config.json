@@ -1,10 +1,57 @@
 {
-  "font_size": 14,
-  "height": 600,
-  "theme": {
-    "background_color": "#0f0f0f",
-    "selection_color": "#1f1f1f",
-    "text_color": "#eceff4"
+  "debug": {
+    "disable_auto_focus": false,
+    "enable_logging": false
   },
-  "width": 600
+  "theme": {
+    "colors": {
+      "item_bg": "#0f0f0f",
+      "item_bg_hover": "#181818",
+      "item_bg_selected": "#1f1f1f",
+      "item_description": "#a0a0a0",
+      "item_name": "#ffffff",
+      "item_path": "#808080",
+      "search_bg": "#1f1f1f",
+      "search_bg_focused": "#282828",
+      "search_caret": "#808080",
+      "search_text": "#e0e0e0",
+      "window_bg": "#0f0f0f"
+    },
+    "corners": {
+      "list_item": 8,
+      "search": 8,
+      "window": 12
+    },
+    "spacing": {
+      "item_margin": 6,
+      "item_padding": 4,
+      "search_margin": 12,
+      "search_padding": 12
+    },
+    "typography": {
+      "item_description_size": 12,
+      "item_name_size": 14,
+      "item_path_font_family": "monospace",
+      "item_path_size": 12,
+      "search_font_size": 16
+    }
+  },
+  "window": {
+    "anchor": "center",
+    "border_color": "#333333",
+    "border_width": 2,
+    "height": 600,
+    "margin_bottom": 0,
+    "margin_left": 0,
+    "margin_right": 0,
+    "margin_top": 0,
+    "show_border": true,
+    "show_descriptions": false,
+    "show_icons": true,
+    "show_paths": false,
+    "show_search": true,
+    "use_gtk_colors": false,
+    "vim_keys": true,
+    "width": 600
+  }
 }
